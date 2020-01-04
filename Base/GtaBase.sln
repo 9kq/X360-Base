@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GtaBase", "GtaBase\GtaBase.vcxproj", "{9091792B-8C9D-4937-BC35-7BF6AACB48C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Main|Xbox 360 = Main|Xbox 360
+		Mans|Xbox 360 = Mans|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Main|Xbox 360.ActiveCfg = Main|Xbox 360
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Main|Xbox 360.Build.0 = Main|Xbox 360
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Main|Xbox 360.Deploy.0 = Main|Xbox 360
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Mans|Xbox 360.ActiveCfg = Mans|Xbox 360
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Mans|Xbox 360.Build.0 = Mans|Xbox 360
+		{9091792B-8C9D-4937-BC35-7BF6AACB48C3}.Mans|Xbox 360.Deploy.0 = Mans|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7803C266-631D-4BF7-925F-2F0DED04EECC}
+	EndGlobalSection
+EndGlobal
